@@ -2,7 +2,7 @@
     {
         "id": 101,
         "title": "Full Stack Web Developent",
-        "img": "../assets/img/course_1.jpg",
+        "img": "https://i.ibb.co/FXJvqRr/course-1.jpg",
         "category_id": 1,
         "category": "Web Developent",
         "summary": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
@@ -17,18 +17,18 @@
         "instructor": {
             "name": "Alice",
             "instructor_id": 1,
-            "avatar": "../assets/img/author/author_1.jpg",
+            "avatar": "https://i.ibb.co/sPcgJG1/author-1.jpg",
             "about": "Alice has been programming for around 12 years and teaching for almost 5 years.Alice has mastered explaining very complex topics in a simple manner that is very understandable."
         }
     },
     {
         "id": 102,
         "title": "Laravel 9 -Build Complete Multi Vendor Ecommerce Project A-Z",
-        "img": "../assets/img/course_2.jpg",
+        "img": "https://i.ibb.co/89yzxHD/course-2.webp",
         "category_id": 1,
         "category": "Web Developent",
         "summary": "In This Course, You Will Build Two Different Projects With Laravel 9 Including Complete Multi-Vendor Ecommerce Site A-Z",
-        "price": 2099,
+        "price": 299,
         "info": {
             "duration": "4 month",
             "enrolled_students": "670",
@@ -39,14 +39,14 @@
         "instructor": {
             "name": "Bob",
             "instructor_id": 2,
-            "avatar": "../assets/img/author/author_2.jpg",
+            "avatar": "https://i.ibb.co/9ZTczQr/author-2.jpg",
             "about": "I'm a web developer with a serious love for teaching I am a founder of eLe easy Learning and a passionate Web Developer, Programmer & Instructor."
         }
     },
     {
         "id": 103,
         "title": "Learn Python: The Complete Python Programming Course",
-        "img": "../assets/img/course_3.jpg",
+        "img": "https://i.ibb.co/m5K27pn/course-3.jpg",
         "category_id": 2,
         "category": "Backend Programming",
         "summary": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
@@ -61,14 +61,14 @@
         "instructor": {
             "name": "Alice",
             "instructor_id": 1,
-            "avatar": "../assets/img/author/author_1.jpg",
+            "avatar": "https://i.ibb.co/sPcgJG1/author-1.jpg",
             "about": "Alice has been programming for around 12 years and teaching for almost 5 years.Alice has mastered explaining very complex topics in a simple manner that is very understandable."
         }
     },
     {
         "id": 104,
         "title": "NodeJS Tutorial and Projects Course",
-        "img": "../assets/img/course_4.png",
+        "img": "https://i.ibb.co/V3NS0yR/course-4.png",
         "category_id": 2,
         "category": "Backend Programming",
         "summary": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB.",
@@ -83,18 +83,18 @@
         "instructor": {
             "name": "John",
             "instructor_id": 3,
-            "avatar": "../assets/img/author/author_3.png",
+            "avatar": "https://i.ibb.co/4tw4yT2/author-3.png",
             "about": "Hello, I am John Smilga and I am a web developer. I live and work in Sarasota, FL. I spend most of my day, experimenting with HTML, CSS and Javascript (and it's endless list of frameworks). I enjoy coding and the challenge of learning something new everyday. You can also find me at youtube channel Coding Addict."
         }
     },
     {
         "id": 105,
         "title": "Modern React with Redux",
-        "img": "../assets/img/course_5.jpg",
+        "img": "https://i.ibb.co/h1S5cMC/course-5.webp",
         "category_id": 3,
         "category": "Frontend Programming",
         "summary": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
-        "price": 49,
+        "price": 79,
         "info": {
             "duration": "3 month",
             "enrolled_students": "3204",
@@ -105,14 +105,14 @@
         "instructor": {
             "name": "Kimberley",
             "instructor_id": 4,
-            "avatar": "../assets/img/author/author_4.png",
+            "avatar": "https://i.ibb.co/N1rGkss/author-4.png",
             "about": "Kimberley has been building complex Javascript front ends for top corporations in the San Francisco Bay Area. With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He teaches on Udemy to share the knowledge he has gained with other software engineers.  Invest in yourself by learning from Stephen's published courses."
         }
     },
     {
         "id": 106,
         "title": "Web Design for Beginners: Real World Coding in HTML & CSS",
-        "img": "../assets/img/course_6.jpg",
+        "img": "https://i.ibb.co/z8KMFvb/course-6.jpg",
         "category_id": 3,
         "category": "Frontend Programming",
         "summary": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",
@@ -127,14 +127,14 @@
         "instructor": {
             "name": "Andrew Williams",
             "instructor_id": 5,
-            "avatar": "../assets/img/author/author_5.jpg",
+            "avatar": "https://i.ibb.co/b3BhGkN/author-5.jpg",
             "about": "I have written and published a number of books that are available on Amazon, including books on WordPress (WordPress for Beginners 2022), Self-Publishing (Self-Publishing on Amazon 2022), and search engine optimization (SEO 2021). I also run a website called ezSEONews, where I provide tutorials on a number of skills required for running a successful website."
         }
     },
     {
         "id": 107,
         "title": "Fundamentals of Database Engineering",
-        "img": "../assets/img/course_7.png",
+        "img": "https://i.ibb.co/q9BxrNr/course-7.png",
         "category_id": 4,
         "category": "Database Design & Develpment",
         "summary": "Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!",
@@ -149,14 +149,14 @@
         "instructor": {
             "name": "Andrei Neagoie",
             "instructor_id": 6,
-            "avatar": "../assets/img/author/author_6.png",
+            "avatar": "https://i.ibb.co/84Hb7PW/author-6.png",
             "about": "Having been a self taught programmer, he understands that there is an overwhelming number of online courses, tutorials and books that are overly verbose and inadequate at teaching proper skills. Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp. "
         }
     },
     {
         "id": 108,
         "title": "Become a WordPress Developer: Unlocking Power With Code",
-        "img": "../assets/img/course_8.jpg",
+        "img": "https://i.ibb.co/HKpGpT9/course-8.jpg",
         "category_id": 5,
         "category": "CMS",
         "summary": "Learn PHP, JavaScript, WordPress theming & the WP REST API to Create Custom & Interactive WordPress Websites",
@@ -171,14 +171,14 @@
         "instructor": {
             "name": "Andrew Williams",
             "instructor_id": 5,
-            "avatar": "../assets/img/author/author_5.jpg",
+            "avatar": "https://i.ibb.co/b3BhGkN/author-5.jpg",
             "about": "I have written and published a number of books that are available on Amazon, including books on WordPress (WordPress for Beginners 2022), Self-Publishing (Self-Publishing on Amazon 2022), and search engine optimization (SEO 2021). I also run a website called ezSEONews, where I provide tutorials on a number of skills required for running a successful website."
         }
     },
     {
         "id": 109,
         "title": "Complete Data Science Bootcamp",
-        "img": "../assets/img/course_9.png",
+        "img": "https://i.ibb.co/4YcdhSB/course-9.png",
         "category_id": 6,
         "category": "Data Science & Analytics",
         "summary": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
@@ -193,14 +193,14 @@
         "instructor": {
             "name": "Alice",
             "instructor_id": 1,
-            "avatar": "../assets/img/author/author_1.jpg",
+            "avatar": "https://i.ibb.co/sPcgJG1/author-1.jpg",
             "about": "Alice has been programming for around 12 years and teaching for almost 5 years.Alice has mastered explaining very complex topics in a simple manner that is very understandable."
         }
     },
     {
         "id": 110,
         "title": "iOS App Development for Beginners (Swift, SwiftUI)",
-        "img": "../assets/img/course_10.png",
+        "img": "https://i.ibb.co/GkcrYSj/course-10.png",
         "category_id": 7,
         "category": "Mobile App Development",
         "summary": "Complete iOS App Development from Scratch to Live on AppStore (Beginner to Expert Level)",
@@ -215,18 +215,18 @@
         "instructor": {
             "name": "Dr. Angela",
             "instructor_id": 7,
-            "avatar": "../assets/img/author/author_7.png",
+            "avatar": "https://i.ibb.co/5sj3Bmh/author-7.webp",
             "about": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees."
         }
     },
     {
         "id": 111,
         "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
-        "img": "../assets/img/course_11.jpg",
+        "img": "https://i.ibb.co/pdtDhwF/course-11.jpg",
         "category_id": 8,
         "category": "Artificial Intellegence",
         "summary": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
-        "price": 259,
+        "price": 199,
         "info": {
             "duration": "5 month",
             "enrolled_students": "950",
@@ -237,18 +237,18 @@
         "instructor": {
             "name": "Dr. Angela",
             "instructor_id": 7,
-            "avatar": "../assets/img/author/author_7.png",
+            "avatar": "https://i.ibb.co/5sj3Bmh/author-7.webp",
             "about": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees."
         }
     },
     {
         "id": 112,
         "title": "MasterClass Software Testing with Jira & Agile",
-        "img": "../assets/img/course_12.jpg",
+        "img": "https://i.ibb.co/zsTjkm1/course-12.jpg",
         "category_id": 8,
         "category": "Artificial Intellegence",
         "summary": "BEST job oriented Software Manual Testing course on real time Project+Interview ques+Resume Prep+ Lifetime Support",
-        "price": 259,
+        "price": 279,
         "info": {
             "duration": "4 month",
             "enrolled_students": "1150",
@@ -259,7 +259,7 @@
         "instructor": {
             "name": "Corey O",
             "instructor_id": 8,
-            "avatar": "../assets/img/author/author_8.png",
+            "avatar": "https://thumbs.dreamstime.com/b/businessman-icon-image-male-avatar-profile-vector-glasses-beard-hairstyle-179728610.jpg",
             "about": "Nothing is Impossible. It all depends on how we are Trained on it.Teaching is my Passion. And it’s my Profession. The only Business I know is Spreading the Knowledge.Every QA Professional have a wish of learning trending Automation courses but somehow 90% of them are giving up their thoughts."
         }
     }
