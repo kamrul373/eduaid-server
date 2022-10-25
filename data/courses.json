@@ -1,0 +1,24 @@
+[
+    {
+        "id": 101,
+        "title": "Full Stack Web Developent",
+        "img": "../assets/img/course_1.jpg",
+        "category_id": 1,
+        "category": "Web Developent",
+        "summary": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+        "price": 84,
+        "info": {
+            "duration": "6 month",
+            "enrolled_students": "732",
+            "course_type": "Recorded",
+            "lesson": "300+",
+            "description": "This course now allows you to take your React knowledge to the next level and build fullstack web apps based on React, NodeJS, MongoDB and Express! Building fullstack applications (i.e. frontend + backend) with the MERN stack is very popular - in this course, you will learn it from scratch at the example of a complete project!MERN stands for MongoDB, Express.js, React.js and Node.js - and combined, these four technologies allow you to build amazing web applications. In this course, we'll build an entire project and you will learn how these different technologies work together step by step. We'll first have a look at all the individual building blocks, so that we then can also combine them all into one amazing application by the end of the course."
+        },
+        "instructor": {
+            "name": "Alice",
+            "instructor_id": 1,
+            "avatar": "../assets/img/author/author_1.jpg",
+            "about": "Alice has been programming for around 12 years and teaching for almost 5 years.Alice has mastered explaining very complex topics in a simple manner that is very understandable."
+        }
+    }
+]
