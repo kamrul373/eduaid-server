@@ -19,10 +19,19 @@ app.get("/courses", (req, res) => {
     res.send(courses)
 });
 // course details api
-app.get("/course/:id", (req, res) => {
+app.get("/courses/:id", (req, res) => {
     const courseId = req.params.id;
     const selectedCourse = courses.find(course => course.id === parseInt(courseId));
     res.send(selectedCourse);
+});
+
+// courses on a category
+
+app.get("/categories/:id", (req, res) => {
+    const categoryId = req.params.id;
+    const categoryCourses = courses.filter(course => course.category_id === parseInt(categoryId));
+
+    res.send(categoryCourses);
 })
 
 app.listen(port, () => {
