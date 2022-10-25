@@ -33,10 +33,6 @@
     },
     {
         "category_id": 9,
-        "category_name": "Software Engineering"
-    },
-    {
-        "category_id": 10,
-        "category_name": "Game Development"
+        "category_name": "Software Testing"
     }
 ]
