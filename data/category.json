@@ -34,5 +34,9 @@
     {
         "category_id": 9,
         "category_name": "Software Testing"
+    },
+    {
+        "category_id": 10,
+        "category_name": "ALL"
     }
 ]

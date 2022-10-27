@@ -2,7 +2,7 @@
     {
         "id": 101,
         "title": "Full Stack Web Developent",
-        "img": "https://i.ibb.co/FXJvqRr/course-1.jpg",
+        "img": "https://i.ibb.co/4YKkmM8/course-1.png",
         "category_id": 1,
         "category": "Web Developent",
         "summary": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
@@ -10,7 +10,7 @@
         "info": {
             "duration": "6 month",
             "enrolled_students": "1732",
-            "course_type": "Recorded",
+            "course_type": "Live",
             "lesson": "300+",
             "description": "This course now allows you to take your React knowledge to the next level and build fullstack web apps based on React, NodeJS, MongoDB and Express! Building fullstack applications (i.e. frontend + backend) with the MERN stack is very popular - in this course, you will learn it from scratch at the example of a complete project!MERN stands for MongoDB, Express.js, React.js and Node.js - and combined, these four technologies allow you to build amazing web applications. In this course, we'll build an entire project and you will learn how these different technologies work together step by step. We'll first have a look at all the individual building blocks, so that we then can also combine them all into one amazing application by the end of the course."
         },
@@ -245,8 +245,8 @@
         "id": 112,
         "title": "MasterClass Software Testing with Jira & Agile",
         "img": "https://i.ibb.co/zsTjkm1/course-12.jpg",
-        "category_id": 8,
-        "category": "Artificial Intellegence",
+        "category_id": 9,
+        "category": "Software Testing",
         "summary": "BEST job oriented Software Manual Testing course on real time Project+Interview ques+Resume Prep+ Lifetime Support",
         "price": 279,
         "info": {
